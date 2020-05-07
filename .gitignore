@@ -45,4 +45,5 @@ testem.log
 .DS_Store
 Thumbs.db
 
+#añadido por Ander para ignorar loque no cambiaremos en el poyecto
 angular.json
